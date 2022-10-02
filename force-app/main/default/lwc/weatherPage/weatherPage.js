@@ -16,7 +16,7 @@ export default class WeatherPage extends LightningElement {
     listener(){
         let long;
         let lat;
-        let apiKey = '86b992b561e7188605167073012687df';
+        let apiKey = '';
         console.log('hey');
 
         if (navigator.geolocation){

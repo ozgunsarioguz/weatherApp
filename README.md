@@ -1,1 +1,1 @@
-# A Lightning Web Component to build Weather App getting data from API.
+# A Lightning Web Component fetching data from WeatherAPI.
